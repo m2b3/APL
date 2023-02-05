@@ -7,6 +7,8 @@ This project, continuing on from GSoC 2022, will address these limitations. Last
 
 The infant's gaze location is the experimental data that is used to guide the next stimulus that will be displayed, as well as analyzed to indicate whether the infant looked at the "correct" stimulus or not.
 
+https://github.com/yh-luo/psychopy_tobii_infant is quite close to the principle of what we want to do. 
+
 Skill level: Intermediate/advanced
 
 Required skills: Comfortable with Python. Experience with image/video processing and using deep-learning based image-processing models. Ideally, also comfortable with Android/iOS app development and especially ARKit/equivalent, but not necessary.
