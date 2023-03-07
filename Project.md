@@ -1,3 +1,5 @@
+For questions, concerns etc. you can use the Issues tab.
+
 As mentioned in the introduction,  the project has 3 components -
 
 1. The eye-tracker component, either based on hardware or a neural network
