@@ -1,6 +1,10 @@
 # APL
 automated preferential looking
 
+**March 17th - Note for potential GSoC contributors.
+
+Please note that you cannot be doing another job or internship or even courses during the 12 week GSoC period without prior discussion and approval, and it has to be mentioned clearly in your proposal. You are expected to be working full-time for 350 hours during the week, not on weekends, and daily updates as well as availability for meetings will be expected. GSoC pays quite well for this internship. Please understand that if this is violated,  you are in serious risk of failing the program.
+
 **March 7th - Created document Project.md.. this contains a description of the first set of tasks.**
 
 Accurate and efficient measurement of visual function is difficult in infants and young children because of limited cooperation, inability to provide cognitive verbal responses and lack of efficient behavioural methods. This is important in the clinical and research context where detection and treatment of eye conditions in infancy is dependent on measurement of visual function. Visual deprivation in infants disrupts normal visual development and affects multiple visual functions that are important in visually guided behaviors in everyday life such as contrast sensitivity, motion perception, contour integration, and face recognition. At present there are no reliable automated objective methods for measuring visual functions in infants and young children below the age of 3 years.
