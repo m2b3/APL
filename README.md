@@ -1,7 +1,7 @@
 # APL
 automated preferential looking
 
-**March 17th - Note for potential GSoC contributors.
+**March 17th - Note for potential GSoC contributors.**
 
 Please note that you cannot be doing another job or internship or even courses during the 12 week GSoC period without prior discussion and approval, and it has to be mentioned clearly in your proposal. You are expected to be working full-time for 350 hours during the week, not on weekends, and daily updates as well as availability for meetings will be expected. GSoC pays quite well for this internship. Please understand that if this is violated,  you are in serious risk of failing the program.
 
